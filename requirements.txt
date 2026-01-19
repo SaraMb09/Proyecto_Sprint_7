@@ -1,0 +1,4 @@
+Pandas
+plotly_express
+streamlit
+nbformat
