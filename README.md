@@ -18,3 +18,9 @@ Plotly Express: visualización de datos.
 
 ## Objetivo del proyecto
 Demostrar las habilidades en análisis exploratorio de datos y visualización interactiva, así como la capacidad de crear una aplicación web sencilla para presentar resultados de manera clara e intuitiva.
+
+Saludos,
+Sara Montesdeoca
+Analista de Datos
+📧 sara.montesdeoca09@gmail.com | 🌐 https://github.com/SaraMb09 
+🔗 www.linkedin.com/in/sara-montesdeoca-data-analyst
