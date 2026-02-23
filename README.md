@@ -19,6 +19,13 @@ Plotly Express: visualización de datos.
 ## Objetivo del proyecto
 Demostrar las habilidades en análisis exploratorio de datos y visualización interactiva, así como la capacidad de crear una aplicación web sencilla para presentar resultados de manera clara e intuitiva.
 
+Sobre mí
+Soy Analista de Datos en formación, apasionada por transformar datos en información clara y útil para la toma de decisiones. Vengo de una experiencia previa en atención al cliente y gestión administrativa, donde desarrollé una fuerte orientación al detalle, pensamiento analítico y habilidades de comunicación que hoy aplico en proyectos de datos.
+
+Me motiva entender el porqué detrás de los números, encontrar patrones, validar hipótesis y presentar resultados de forma sencilla y visual para audiencias no técnicas. He trabajado con Python, SQL y herramientas de visualización, desarrollando proyectos enfocados en análisis de mercado, comportamiento de usuarios y apoyo a decisiones de negocio.
+
+Actualmente busco seguir creciendo como Analista de Datos, participando en proyectos donde el análisis, la curiosidad y el impacto real en el negocio sean el centro del trabajo.
+
 Saludos,
 Sara Montesdeoca
 Analista de Datos
